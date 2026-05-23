@@ -247,15 +247,15 @@ function finalizarQuiz() {
     const percentual = (pontuacao / quizData.length) * 100;
 
     if (percentual === 100) {
-        mensagem = "🌟 Perfeito! Você é um especialista em agricultura sustentável!";
+        mensagem = "😃 Perfeito! Você é um especialista em agricultura sustentável!";
     } else if (percentual >= 80) {
-        mensagem = "🎉 Excelente! Você tem um ótimo conhecimento sobre tecnologias agrícolas!";
+        mensagem = "🥳 Excelente! Você tem um ótimo conhecimento sobre tecnologias agrícolas!";
     } else if (percentual >= 60) {
-        mensagem = "👍 Bom trabalho! Você compreendeu bem os conceitos principais.";
+        mensagem = "✅ Bom trabalho! Você compreendeu bem os conceitos principais.";
     } else if (percentual >= 40) {
         mensagem = "📚 Continue estudando! Há muito a aprender sobre agricultura sustentável.";
     } else {
-        mensagem = "🌱 Comece do início! Releia o material e tente novamente.";
+        mensagem = "⚡ Comece do início! Releia o material e tente novamente.";
     }
 
     document.getElementById('resultado-mensagem').textContent = mensagem;
