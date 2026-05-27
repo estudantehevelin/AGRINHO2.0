@@ -96,7 +96,7 @@ const quizData = [
             "Desmatamento para ampliar plantações",
             "Uso ilimitado de recursos naturais"
         ],
-        resposta: 2
+        resposta: 1
     },
     {
         pergunta: "Qual prática ajuda a conservar o solo?",
