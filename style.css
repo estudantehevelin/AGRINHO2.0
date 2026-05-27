@@ -12,7 +12,7 @@
     --primary-gold: #FF00FF;
     --secondary-gray: #4b0082;
     --text-light: #ffffff;
-    --text-dark: #050505;
+    --text-dark: #000000;
     --border-radius: 12px;
     --transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
