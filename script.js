@@ -106,7 +106,7 @@ const quizData = [
             "Retirada da vegetação nativa",
             "Uso excessivo de máquinas"
         ],
-        resposta: 2
+        resposta: 1
     },
     {
         pergunta: "Qual sistema de irrigação economiza mais água?",
@@ -116,7 +116,7 @@ const quizData = [
             "Mangueira aberta",
             "Aspersão sem controle"
         ],
-        resposta: 2
+        resposta: 1
     },
     {
         pergunta: "A compostagem é utilizada para:",
@@ -126,7 +126,7 @@ const quizData = [
             "Poluir rios",
             "Aumentar erosão"
         ],
-        resposta: 2
+        resposta: 1
     },
     {
         pergunta: "O controle biológico de pragas consiste em:",
@@ -136,7 +136,7 @@ const quizData = [
             "Queimar plantações",
             "Retirar toda a vegetação"
         ],
-        resposta: 2
+        resposta: 1
     },
     {
         pergunta: "Por que a agricultura sustentável é importante?",
@@ -146,7 +146,7 @@ const quizData = [
             "Porque elimina toda a biodiversidade",
             "Porque utiliza mais água"
         ],
-        resposta: 2
+        resposta: 1
     }
 ];
 
