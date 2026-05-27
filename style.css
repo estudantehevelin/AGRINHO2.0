@@ -6,13 +6,13 @@
 
 /* Reset e Variáveis */
 :root {
-    --primary-green: #2a2aeb;
+    --primary-green: #0a0ae6;
     --primary-cyan: #08bf64;
     --primary-black: #000000;
     --primary-gold: #FF00FF;
     --secondary-gray: #4b0082;
     --text-light: #ffffff;
-    --text-dark: #00008B;
+    --text-dark: #4b0355;
     --border-radius: 12px;
     --transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
